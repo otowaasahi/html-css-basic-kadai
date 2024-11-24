@@ -1,5 +1,5 @@
 body {
-    "Arial", "Meiryo", sans-serif
+    font-family: "Arial", "Meiryo;", sans-serif;
 }
 
 html {
@@ -19,12 +19,12 @@ h1 {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-size: 40px;
+  font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 1px 2px 2px gray;
   border-bottom: solid 3px rgb(115, 115, 114);
 }
 
-#basic {
+#basic p {
     font-weight: bold;
 }
